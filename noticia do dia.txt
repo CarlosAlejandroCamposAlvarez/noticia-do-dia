@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícia do Dia</title>
+</head>
+
+<body>
+    <h1>Rio Grande do Sul Sofre com Severas Enchentes após Fortes Chuvas</h1>
+    <h2 style="font-style: italic;">População enfrenta graves consequências e autoridades mobilizam ajuda humanitária
+    </h2>
+    <p>Os estado do Rio Grande do Sul enfrenta uma situação de <strong>emergência</strong> devido às intensas chuvas que têm causado
+        enchentes em várias regiões. Cidades como Porto Alegre, Pelotas e Rio Grande estão entre as mais afetadas, com
+        ruas alagadas, casas inundadas e deslizamentos de terra.</p>
+    <p>As <u>enchentes têm deixado um rastro de destruição</u>, afetando milhares de pessoas e causando danos materiais
+        significativos. Muitos moradores foram obrigados a deixar suas casas e buscar abrigo em locais seguros, enquanto
+        equipes de resgate trabalham para socorrer aqueles em situação de perigo.</p>
+    <p>As autoridades estaduais e municipais têm mobilizado esforços para prestar assistência às vítimas das enchentes,
+        fornecendo abrigo temporário, alimentos, água potável e cuidados médicos. Também foram montados postos de
+        arrecadação para receber doações de itens essenciais.</p>
+    <p>Apesar dos esforços de socorro, a situação <strong>preocupante</strong> , com previsões de mais chuvas nos próximos dias.
+        A população do Rio Grande do Sul se une em solidariedade e esperança, enquanto enfrenta os desafios impostos por
+        essa grave crise causada pelas enchentes.
+    </p>
+</body>
+
+</html>
